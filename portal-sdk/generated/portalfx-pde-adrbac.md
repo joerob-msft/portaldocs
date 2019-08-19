@@ -1,3 +1,6 @@
+This is deprecated. Consider using the Directory Object Picker
+https://df.onecloud.azure-test.net/#blade/Microsoft_AAD_IAM/DirectoryObjectGridTestBlade
+
 * [Getting started with the Select Members Blade](#getting-started-with-the-select-members-blade)
 * [What is the Select Member Blade?](#what-is-the-select-member-blade)
 * [Downloading the PDE](#downloading-the-pde)
